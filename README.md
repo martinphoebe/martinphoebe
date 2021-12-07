@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @martinphoebe
+- 👀 I’m interested in, Coding and Video games!
+- 🌱 I’m currently learning, Python and Java 
+- 📫 How to reach me, Email: martinphoebe@icloud.com
