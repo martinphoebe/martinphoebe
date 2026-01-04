@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phoebe
-- 👀 I’m interested in, Coding, Cyber Security and Video games!
+- 👀 I’m interested in Coding and Cyber Security
 - 🌱 I’m currently learning Python
 - 📚 Studying Cyber Security with Digital Forensics at Bournemouth University
 - 📫 Email: martinphoebe@icloud.com
