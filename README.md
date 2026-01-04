@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @martinphoebe
-- 👀 I’m interested in, Coding and Video games!
-- 🌱 I’m currently learning, Python and Java 
-- 📫 How to reach me, Email: martinphoebe@icloud.com
+- 👋 Hi, I’m Phoebe
+- 👀 I’m interested in, Coding, Cyber Security and Video games!
+- 🌱 I’m currently learning Python
+- 📚 Studying Cyber Security with Digital Forensics at Bournemouth University
+- 📫 Email: martinphoebe@icloud.com
